@@ -1,2 +1,5 @@
-Enormous hairy ginger cat
+Massive shaved ginger cat with no tail
+<<<<<<< HEAD
 Eats cat food
+=======
+>>>>>>> 19e32aeabb2a8afa961d1719753e8bc43adf2f40
